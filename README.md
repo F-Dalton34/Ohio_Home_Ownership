@@ -1,4 +1,4 @@
-# Home Ownership in Ohio 2010 and 2020
+# 🏘️Home Ownership in Ohio 2010 and 2020
 
 Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 
