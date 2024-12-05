@@ -11,8 +11,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 2) Which census tracts have the highest renter-to-owner ratio in 2019
 3) How much do the census tracts with the highest renter-to-owner ratio overlab comparing 2010 and 2019?
 4) Does age and income determing this spatial trend?
-
-
+---
 ## Spatial pattern of percent population owning and renting
 ## Change in spatial pattern of percent population owning and renting from 2010 to 2019
   ![chginrenters](https://github.com/user-attachments/assets/486f1ab3-a472-4c29-a289-f86e4b19eb89)
