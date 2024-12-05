@@ -15,13 +15,13 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ## Spatial pattern of percent population owning and renting
 ---
 ## Change in spatial pattern of percent population owning and renting from 2010 to 2019
-  ![chginrenters](https://github.com/user-attachments/assets/486f1ab3-a472-4c29-a289-f86e4b19eb89)
+
 ---
 ## Ages from 2010 and 2019
 ### Age in 2010
-  ![Median Age 2010](https://github.com/user-attachments/assets/95ce952a-d508-4b64-8295-8c133232b0bf)
+
 ### Age in 2019
-  ![Age2019](https://github.com/user-attachments/assets/1decb104-a77d-4228-81bf-6fe6e707143d)
+
 ### Change in median age
 
 ---
@@ -29,7 +29,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ### Income 2010 
 
 ### Income 2019
-  ![Median Income 2019](https://github.com/user-attachments/assets/01d4f7b8-bb4d-43fd-9f59-50044eb37e88)
+
 ### Change in income
 ---
 ### Project Report
