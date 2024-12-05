@@ -18,7 +18,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
     - Age in 2010
       ![age2010](https://github.com/user-attachments/assets/ea5af5d4-e5a8-490b-9e43-2ce97983967f)
     - Age in 2019
-      ![age19](https://github.com/user-attachments/assets/2b9ec4e7-9cee-43bc-8e59-2d77cb42913d)
+      ![age 2019](https://github.com/user-attachments/assets/038d68eb-d42e-40f0-af4a-4de170e23493)
     - Change in median age
       ![chngeage](https://github.com/user-attachments/assets/2caaa6cf-6581-4288-aac6-eeb2840e59ad)
 
