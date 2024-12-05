@@ -18,7 +18,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ## Change in spatial pattern of percent population owning and renting from 2010 to 2019
 2010|2019
 :----------------------:|:--------------------------:
-![2010 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)| ![2019 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)
+![2010 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)|![2019 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)
 
 ### Change in renters
 ![change renters](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/chginrenters.png)
@@ -28,8 +28,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ## Ages from 2010 and 2019
 2010|2019
 :----------------------:|:--------------------------:
-![age2010](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Median%20Age%202010.png)|
-![Age2019](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Age2019.png)
+![age2010](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Age%20Data/Median%20Age%202010.png)| ![Age2019](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Age%20Data/Age2019.png)
 
 ### Change in median age
 ![change age](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/chngeage.png)
