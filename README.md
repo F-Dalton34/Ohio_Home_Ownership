@@ -16,9 +16,9 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ## Spatial pattern of percent population owning and renting
 ---
 ## Change in spatial pattern of percent population owning and renting from 2010 to 2019
-### Change in Renters
+### Change in renters
 ![change renters](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/chginrenters.png)
-### Change in Homwownership
+### Change in home ownership
 
 ---
 ## Ages from 2010 and 2019
@@ -39,7 +39,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ![change income](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Chgincome.png)
 
 ---
-### Project Report
+### Project Report 
 [Home Ownership StoryMap](https://storymaps.arcgis.com/stories/09f2db7b25db4c22adb9658aea1d3e67)
 ---
 ## Project Proposal
