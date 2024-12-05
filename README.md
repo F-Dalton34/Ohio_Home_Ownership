@@ -17,7 +17,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ---
 ## Renter-dominant vs Owner-dominant patters
 2010|2019
-:----------------------:|:--------------------------:|:----------------------:
+:----------------------:|:--------------------------:
 ![2010 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)|![2019 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)
 
 ---
