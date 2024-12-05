@@ -19,11 +19,11 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ---
 ## Ages from 2010 and 2019
 ### Age in 2010
-
+![age2010](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Median%20Age%202010.png)
 ### Age in 2019
-
+![Age2019](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Age2019.png)
 ### Change in median age
-
+![change age](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/chngeage.png)
 ---
 ## Map showing income of 2010 and 2019
 ### Income 2010 
@@ -37,3 +37,5 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ---
 ## Project Proposal
 - [Project Proposal Presentation](https://docs.google.com/presentation/d/1uJ9hqHD612bhaDIPcPO1kKyDgwzjOcfPcvZl1YjjjrQ/edit?usp=sharing)
+
+
