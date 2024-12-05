@@ -39,7 +39,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ![change income](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Chgincome.png)
 
 ---
-### Project Report
+### Project Report 
 [Home Ownership StoryMap](https://storymaps.arcgis.com/stories/09f2db7b25db4c22adb9658aea1d3e67)
 ---
 ## Project Proposal
