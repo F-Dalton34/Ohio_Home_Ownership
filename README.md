@@ -19,16 +19,17 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ---
 ## Ages from 2010 and 2019
 ### Age in 2010
-
+  ![Median Age 2010](https://github.com/user-attachments/assets/95ce952a-d508-4b64-8295-8c133232b0bf)
 ### Age in 2019
-  ![age 2019](https://github.com/user-attachments/assets/d59610a1-b0dd-4f89-867c-ead71743899f)
+  ![Age2019](https://github.com/user-attachments/assets/1decb104-a77d-4228-81bf-6fe6e707143d)
 ### Change in median age
+
 ---
 ## Map showing income of 2010 and 2019
 ### Income 2010 
-
+  ![Median Income 2010](https://github.com/user-attachments/assets/16215917-7aad-46b1-b22b-a1a3ec4de992)
 ### Income 2019
-
+  ![Median Income 2019](https://github.com/user-attachments/assets/01d4f7b8-bb4d-43fd-9f59-50044eb37e88)
 ### Change in income
 ---
 ### Project Report
