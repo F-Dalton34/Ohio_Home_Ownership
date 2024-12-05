@@ -16,12 +16,9 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ## Spatial pattern of percent population owning and renting
 ---
 ## Change in spatial pattern of percent population owning and renting from 2010 to 2019
-2010|2019
-:----------------------:|:--------------------------:
-![2010 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)|![2019 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)
-
-### Change in renters
-![change renters](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/chginrenters.png)
+2010|2019|Change 2010-2019
+:----------------------:|:--------------------------:|:----------------------:
+![2010 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)|![2019 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)|![change renters](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/chginrenters.png)
 
 
 ---
