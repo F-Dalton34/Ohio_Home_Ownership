@@ -5,6 +5,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ## Project Introduction
 - Our project aims to analyze the U.S. Census home ownership data of 2010 and 2019 at the Census tract level
   - housing trends, renter-to-owner ratio, and age and income effect
+
 ---
 ## Research Questions
 1) Which census tracts have the highest renter-to-owner ration in 2010
