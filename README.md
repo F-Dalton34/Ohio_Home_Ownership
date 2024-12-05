@@ -27,7 +27,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ---
 ## Map showing income of 2010 and 2019
 ### Income 2010 
-  ![Median Income 2010](https://github.com/user-attachments/assets/16215917-7aad-46b1-b22b-a1a3ec4de992)
+
 ### Income 2019
   ![Median Income 2019](https://github.com/user-attachments/assets/01d4f7b8-bb4d-43fd-9f59-50044eb37e88)
 ### Change in income
