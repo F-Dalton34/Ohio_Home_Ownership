@@ -15,7 +15,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ---
 ## Maps
 The following images are the primary data collected from the group's research. Addtional content located in project report. 
-### Renter-dominant vs Owner-dominant patters
+### Renter-dominant vs Owner-dominant patterns
 2010|2019
 :----------------------:|:--------------------------:
 ![2010 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)|![2019 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)
