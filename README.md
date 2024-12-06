@@ -32,7 +32,7 @@ The following images are the primary data collected from the group's research. A
 
 
 ---
-### Map showing income of 2010 and 2019
+### Median Income
 2010|2019
 :----------------------:|:--------------------------:
 ![income 2010](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Financial%20Data/Income/Median%20Income%202010.png)|![income 2019](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Financial%20Data/Income/Median%20Income%202019.png)
