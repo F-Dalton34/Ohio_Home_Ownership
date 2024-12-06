@@ -8,29 +8,32 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 
 ---
 ## Research Questions
-1) Which census tracts have the highest renter-to-owner ration in 2010
+1) Which census tracts have the highest renter-to-owner ratio in 2010
 2) Which census tracts have the highest renter-to-owner ratio in 2019
-3) How much do the census tracts with the highest renter-to-owner ratio overlab comparing 2010 and 2019?
+3) How much do the census tracts with the highest renter-to-owner ratio comparing 2010 and 2019?
 4) Does age and income determing this spatial trend?
+
+## Maps
+The following images are the primary maps resuslting from the group's research. Additional content can be found in the project report. 
 ---
-## Renter-dominant vs Owner-dominant patters
+### Renter-dominant vs Owner-dominant patters
 2010|2019
 :----------------------:|:--------------------------:
 ![2010 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)|![2019 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)
 
 ---
-## Change in population renting between 2010 and 2019
+### Change in population renting between 2010 and 2019
 ![change rent](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/chginrenters.png)
 
 ---
-## Median age
+### Median age
 2010|2019
 :----------------------:|:--------------------------:
 ![age2010](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Age%20Data/Median%20Age%202010.png)| ![Age2019](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Age%20Data/Age2019.png)
 
 
 ---
-## Map showing income of 2010 and 2019
+### Map showing income of 2010 and 2019
 2010|2019
 :----------------------:|:--------------------------:
 ![income 2010](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Financial%20Data/Income/Median%20Income%202010.png)|![income 2019](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Financial%20Data/Income/Median%20Income%202019.png)
@@ -39,7 +42,7 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 ### Project Report 
 [Home Ownership StoryMap](https://storymaps.arcgis.com/stories/09f2db7b25db4c22adb9658aea1d3e67)
 ---
-## Project Proposal
+### Project Proposal
 - [Project Proposal Presentation](https://docs.google.com/presentation/d/1uJ9hqHD612bhaDIPcPO1kKyDgwzjOcfPcvZl1YjjjrQ/edit?usp=sharing)
 
 
