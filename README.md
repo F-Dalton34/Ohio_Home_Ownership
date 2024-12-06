@@ -13,12 +13,14 @@ Ethan Belak, Gavin Butler, Faith Dalton, Alexa Kast, Layne Miller
 3) How much do the census tracts with the highest renter-to-owner ratio overlab comparing 2010 and 2019?
 4) Does age and income determing this spatial trend?
 ---
-## Spatial pattern of percent population owning and renting
----
 ## Renter-dominant vs Owner-dominant patters
 2010|2019
 :----------------------:|:--------------------------:
 ![2010 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)|![2019 rent/own](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/Rent2.019.png)
+
+---
+## Change in population renting between 2010 and 2019
+![change rent](https://github.com/F-Dalton34/Ohio_Home_Ownership/blob/main/Maps/Renter%20vs.%20Homeownership/chginrenters.png)
 
 ---
 ## Median age
