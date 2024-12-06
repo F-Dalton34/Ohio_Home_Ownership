@@ -39,7 +39,7 @@ The following images are the primary data collected from the group's research. A
 
 ---
 ### Project Report 
-    [Home Ownership StoryMap](https://storymaps.arcgis.com/stories/09f2db7b25db4c22adb9658aea1d3e67)
+  [Home Ownership StoryMap](https://storymaps.arcgis.com/stories/09f2db7b25db4c22adb9658aea1d3e67)
 ---
 ### Project Proposal
 - [Project Proposal Presentation](https://docs.google.com/presentation/d/1uJ9hqHD612bhaDIPcPO1kKyDgwzjOcfPcvZl1YjjjrQ/edit?usp=sharing)
